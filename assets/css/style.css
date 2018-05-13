@@ -1,0 +1,19 @@
+
+.card-container.card {
+    max-width: 350px;
+    padding: 40px 40px;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.form-signin .btn {
+    height: 36px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: default;
+    padding: 0;
+    border-radius: 0;
+}
